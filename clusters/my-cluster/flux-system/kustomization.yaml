@@ -3,7 +3,7 @@ kind: Kustomization
 resources:
 - gotk-components.yaml
 - gotk-sync.yaml
-- app-relase.yaml
+- app-release.yaml
 - app-repo.yaml
 - db-repo.yaml
 - db-release.yaml
